@@ -11,3 +11,5 @@ With the rising demand for NFTs, many creators and platforms are developing NFT 
 By incorporating our NFT Mint Button onto your website, you enable users to seamlessly mint their own NFTs. Whether you are an artist, musician, or creative entrepreneur, this powerful tool allows you to unlock the potential of the NFT marketplace and engage with a growing community of enthusiasts and collectors.
 
 Embrace the exciting possibilities of NFT minting by integrating our Free Mint Button onto your website today. Empower your audience to create and showcase their unique digital assets, all with a single click. Experience the seamless fusion of technology and creativity, propelling you into the thriving world of NFTs.
+
+More info about our smart contract builder you can find on https://imintify.com/nft-mint-button/
